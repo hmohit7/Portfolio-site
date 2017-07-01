@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color:#676858;
+    font-weight: 300;
+}
+.text-muted{
+    color: #bcbcbc;
+}
+.text-thin{
+    font-weight: 100;
+
+}
+.logo-title{
+    margin-top: 10px;
+}
+.super-title{
+    font-size:60px;
+
+}
+img{
+    max-width: 100%;
+}
+.zbutton{
+    min-height: 48px;
+    min-width: 48px;
+}
